@@ -1,0 +1,205 @@
+Epoch 175, Loss of train 0.001424, Res 36.33, 0.9551
+Epoch 173, Loss of train 0.00144, Res 36.32, 0.9552
+Epoch 169, Loss of train 0.001396, Res 36.31, 0.9551
+Epoch 161, Loss of train 0.001418, Res 36.3, 0.9548
+Epoch 155, Loss of train 0.001467, Res 36.29, 0.955
+Epoch 153, Loss of train 0.001462, Res 36.27, 0.9547
+Epoch 141, Loss of train 0.001442, Res 36.26, 0.9547
+Epoch 132, Loss of train 0.001408, Res 36.25, 0.9547
+Epoch 118, Loss of train 0.001469, Res 36.23, 0.9544
+Epoch 111, Loss of train 0.001471, Res 36.2, 0.954
+Epoch 108, Loss of train 0.001512, Res 36.19, 0.9542
+Epoch 107, Loss of train 0.001495, Res 36.18, 0.9541
+Epoch 103, Loss of train 0.001438, Res 36.16, 0.954
+Epoch 96, Loss of train 0.001461, Res 36.15, 0.9535
+Epoch 94, Loss of train 0.001446, Res 36.12, 0.9536
+Epoch 81, Loss of train 0.00152, Res 36.09, 0.9531
+Epoch 80, Loss of train 0.001483, Res 36.05, 0.9531
+Epoch 75, Loss of train 0.001516, Res 36.02, 0.9525
+Epoch 72, Loss of train 0.001487, Res 36.01, 0.9523
+Epoch 62, Loss of train 0.001505, Res 35.98, 0.9522
+Epoch 58, Loss of train 0.001502, Res 35.96, 0.9521
+Epoch 54, Loss of train 0.001507, Res 35.9, 0.9514
+Epoch 49, Loss of train 0.00153, Res 35.89, 0.9514
+Epoch 47, Loss of train 0.001567, Res 35.82, 0.951
+Epoch 42, Loss of train 0.001569, Res 35.8, 0.9502
+Epoch 33, Loss of train 0.00156, Res 35.79, 0.9505
+Epoch 31, Loss of train 0.001552, Res 35.69, 0.949
+Epoch 30, Loss of train 0.001619, Res 35.66, 0.949
+Epoch 28, Loss of train 0.001564, Res 35.62, 0.9486
+Epoch 26, Loss of train 0.001575, Res 35.59, 0.9487
+Epoch 25, Loss of train 0.001612, Res 35.51, 0.9475
+Epoch 22, Loss of train 0.001636, Res 35.46, 0.9468
+Epoch 21, Loss of train 0.001679, Res 35.44, 0.9469
+Epoch 18, Loss of train 0.001639, Res 35.37, 0.9468
+Epoch 17, Loss of train 0.001708, Res 35.12, 0.9431
+Epoch 14, Loss of train 0.001718, Res 35.06, 0.9427
+Epoch 12, Loss of train 0.001691, Res 34.83, 0.9403
+Epoch 11, Loss of train 0.001735, Res 34.77, 0.9394
+Epoch 10, Loss of train 0.001773, Res 34.64, 0.9377
+Epoch 9, Loss of train 0.001821, Res 34.33, 0.9343
+Epoch 8, Loss of train 0.001814, Res 34.31, 0.9341
+Epoch 6, Loss of train 0.001998, Res 33.74, 0.9286
+Epoch 5, Loss of train 0.002046, Res 33.05, 0.9199
+Epoch 3, Loss of train 0.002401, Res 31.38, 0.8921
+Epoch 2, Loss of train 0.003091, Res 29.94, 0.8729
+Epoch 1, Loss of train 0.007514, Res 27.6, 0.7755
+
+Above is ??? test. Note：None.
+========================================================================================================================
+========================================================================================================================
+Epoch 4, Loss of train 0.002155, No test
+Epoch 7, Loss of train 0.001875, No test
+Epoch 9, Loss of train 0.00193, No test
+Epoch 13, Loss of train 0.001687, No test
+Epoch 15, Loss of train 0.001674, No test
+Epoch 16, Loss of train 0.001717, No test
+Epoch 19, Loss of train 0.001633, No test
+Epoch 20, Loss of train 0.001643, No test
+Epoch 23, Loss of train 0.001631, No test
+Epoch 24, Loss of train 0.001605, No test
+Epoch 27, Loss of train 0.001631, No test
+Epoch 29, Loss of train 0.001594, No test
+Epoch 32, Loss of train 0.001571, No test
+Epoch 34, Loss of train 0.001585, No test
+Epoch 35, Loss of train 0.001628, No test
+Epoch 36, Loss of train 0.001563, No test
+Epoch 37, Loss of train 0.001575, No test
+Epoch 38, Loss of train 0.001551, No test
+Epoch 39, Loss of train 0.001601, No test
+Epoch 40, Loss of train 0.001535, No test
+Epoch 41, Loss of train 0.001544, No test
+Epoch 43, Loss of train 0.001524, No test
+Epoch 44, Loss of train 0.001557, No test
+Epoch 45, Loss of train 0.001552, No test
+Epoch 46, Loss of train 0.001548, No test
+Epoch 48, Loss of train 0.001557, No test
+Epoch 50, Loss of train 0.001515, No test
+Epoch 51, Loss of train 0.001536, No test
+Epoch 52, Loss of train 0.001483, No test
+Epoch 53, Loss of train 0.001523, No test
+Epoch 55, Loss of train 0.001499, No test
+Epoch 56, Loss of train 0.00152, No test
+Epoch 57, Loss of train 0.001548, No test
+Epoch 59, Loss of train 0.001512, No test
+Epoch 60, Loss of train 0.001521, No test
+Epoch 61, Loss of train 0.001527, No test
+Epoch 63, Loss of train 0.001521, No test
+Epoch 64, Loss of train 0.001515, No test
+Epoch 65, Loss of train 0.001505, No test
+Epoch 66, Loss of train 0.001505, No test
+Epoch 67, Loss of train 0.00151, No test
+Epoch 68, Loss of train 0.001503, No test
+Epoch 69, Loss of train 0.00152, No test
+Epoch 70, Loss of train 0.00153, No test
+Epoch 71, Loss of train 0.001483, No test
+Epoch 73, Loss of train 0.001515, No test
+Epoch 74, Loss of train 0.001491, No test
+Epoch 76, Loss of train 0.001495, No test
+Epoch 77, Loss of train 0.001498, No test
+Epoch 78, Loss of train 0.001494, No test
+Epoch 79, Loss of train 0.001453, No test
+Epoch 82, Loss of train 0.001481, No test
+Epoch 83, Loss of train 0.001485, No test
+Epoch 84, Loss of train 0.001463, No test
+Epoch 85, Loss of train 0.00151, No test
+Epoch 86, Loss of train 0.001485, No test
+Epoch 87, Loss of train 0.001505, No test
+Epoch 88, Loss of train 0.001521, No test
+Epoch 89, Loss of train 0.001454, No test
+Epoch 90, Loss of train 0.001491, No test
+Epoch 91, Loss of train 0.001503, No test
+Epoch 92, Loss of train 0.001505, No test
+Epoch 93, Loss of train 0.001469, No test
+Epoch 95, Loss of train 0.001489, No test
+Epoch 97, Loss of train 0.001474, No test
+Epoch 98, Loss of train 0.001477, No test
+Epoch 99, Loss of train 0.001491, No test
+Epoch 100, Loss of train 0.001465, No test
+Epoch 101, Loss of train 0.001475, No test
+Epoch 102, Loss of train 0.001486, No test
+Epoch 104, Loss of train 0.001521, No test
+Epoch 105, Loss of train 0.001496, No test
+Epoch 106, Loss of train 0.001452, No test
+Epoch 109, Loss of train 0.001495, No test
+Epoch 110, Loss of train 0.00149, No test
+Epoch 112, Loss of train 0.00146, No test
+Epoch 113, Loss of train 0.001451, No test
+Epoch 114, Loss of train 0.001451, No test
+Epoch 115, Loss of train 0.001448, No test
+Epoch 116, Loss of train 0.001468, No test
+Epoch 117, Loss of train 0.001466, No test
+Epoch 119, Loss of train 0.001458, No test
+Epoch 120, Loss of train 0.001494, No test
+Epoch 121, Loss of train 0.001463, No test
+Epoch 122, Loss of train 0.001502, No test
+Epoch 123, Loss of train 0.00145, No test
+Epoch 124, Loss of train 0.001461, No test
+Epoch 125, Loss of train 0.001444, No test
+Epoch 126, Loss of train 0.001469, No test
+Epoch 127, Loss of train 0.001467, No test
+Epoch 128, Loss of train 0.001437, No test
+Epoch 129, Loss of train 0.001435, No test
+Epoch 130, Loss of train 0.001438, No test
+Epoch 131, Loss of train 0.001461, No test
+Epoch 133, Loss of train 0.001442, No test
+Epoch 134, Loss of train 0.001437, No test
+Epoch 135, Loss of train 0.001469, No test
+Epoch 136, Loss of train 0.001432, No test
+Epoch 137, Loss of train 0.001449, No test
+Epoch 138, Loss of train 0.001453, No test
+Epoch 139, Loss of train 0.001476, No test
+Epoch 140, Loss of train 0.00147, No test
+Epoch 142, Loss of train 0.001447, No test
+Epoch 143, Loss of train 0.001452, No test
+Epoch 144, Loss of train 0.001444, No test
+Epoch 145, Loss of train 0.001478, No test
+Epoch 146, Loss of train 0.001445, No test
+Epoch 147, Loss of train 0.001417, No test
+Epoch 148, Loss of train 0.001484, No test
+Epoch 149, Loss of train 0.001466, No test
+Epoch 150, Loss of train 0.001462, No test
+Epoch 151, Loss of train 0.001445, No test
+Epoch 152, Loss of train 0.001469, No test
+Epoch 154, Loss of train 0.001442, No test
+Epoch 156, Loss of train 0.001462, No test
+Epoch 157, Loss of train 0.00144, No test
+Epoch 158, Loss of train 0.001447, No test
+Epoch 159, Loss of train 0.001451, No test
+Epoch 160, Loss of train 0.001448, No test
+Epoch 162, Loss of train 0.001442, No test
+Epoch 163, Loss of train 0.001443, No test
+Epoch 164, Loss of train 0.001437, No test
+Epoch 165, Loss of train 0.001449, No test
+Epoch 166, Loss of train 0.001456, No test
+Epoch 167, Loss of train 0.001433, No test
+Epoch 168, Loss of train 0.001443, No test
+Epoch 170, Loss of train 0.001441, No test
+Epoch 171, Loss of train 0.001403, No test
+Epoch 172, Loss of train 0.001461, No test
+Epoch 174, Loss of train 0.001443, No test
+Epoch 176, Loss of train 0.00145, No test
+Epoch 177, Loss of train 0.001408, No test
+Epoch 178, Loss of train 0.001457, No test
+Epoch 179, Loss of train 0.001443, No test
+Epoch 180, Loss of train 0.001403, No test
+Epoch 181, Loss of train 0.001396, No test
+Epoch 182, Loss of train 0.001441, No test
+Epoch 183, Loss of train 0.00146, No test
+Epoch 184, Loss of train 0.001439, No test
+Epoch 185, Loss of train 0.001404, No test
+Epoch 186, Loss of train 0.001449, No test
+Epoch 187, Loss of train 0.001435, No test
+Epoch 188, Loss of train 0.001432, No test
+Epoch 189, Loss of train 0.001439, No test
+Epoch 190, Loss of train 0.001451, No test
+Epoch 191, Loss of train 0.001464, No test
+Epoch 192, Loss of train 0.00144, No test
+Epoch 193, Loss of train 0.001461, No test
+Epoch 194, Loss of train 0.001434, No test
+Epoch 195, Loss of train 0.001442, No test
+Epoch 196, Loss of train 0.001451, No test
+Epoch 197, Loss of train 0.001441, No test
+Epoch 198, Loss of train 0.001436, No test
+Epoch 199, Loss of train 0.001443, No test
+Epoch 200, Loss of train 0.001426, No test
